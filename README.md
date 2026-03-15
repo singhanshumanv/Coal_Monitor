@@ -97,6 +97,7 @@ Dashboard • Alerts • Risk Prediction • Reports
 
 
 <h2>⚙ Installation Guide</h2>
+<h4>Import database_schema.sql into MySQL before running backend.</h4>
 
 <h3>Backend Setup</h3>
 
