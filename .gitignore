@@ -4,3 +4,6 @@ uploads/
 node_modules/
 .env
 *.pyc
+*.sql.bak
+*.db
+mysql-data/
