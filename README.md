@@ -95,35 +95,6 @@ Dashboard • Alerts • Risk Prediction • Reports
 
 </table>
 
-<hr>
-
-<h2>📷 System Screenshots</h2>
-
-<p align="center">
-<b>AI Compliance Dashboard</b>
-</p>
-
-<p align="center">
-<img src="screenshots/dashboard.png" width="800">
-</p>
-
-<p align="center">
-<b>Upload Regulation Interface</b>
-</p>
-
-<p align="center">
-<img src="screenshots/upload.png" width="800">
-</p>
-
-<p align="center">
-<b>Create Project Interface</b>
-</p>
-
-<p align="center">
-<img src="screenshots/create_project.png" width="800">
-</p>
-
-<hr>
 
 <h2>⚙ Installation Guide</h2>
 
