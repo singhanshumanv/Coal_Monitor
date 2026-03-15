@@ -149,16 +149,3 @@ Automated compliance reports
 <li>🌐 Integration with government regulatory databases</li>
 </ul>
 
-<hr>
-
-<h2>📜 License</h2>
-
-<p>
-This project is developed for educational and demonstration purposes.
-</p>
-
-<hr>
-
-<p align="center">
-⭐ If you like this project, consider giving it a star on GitHub!
-</p>
